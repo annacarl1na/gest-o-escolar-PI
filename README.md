@@ -1,5 +1,16 @@
 # gest-o-escolar-PI
 Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
+
+Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 5 integrantes: 
+
+- Julia Oliveira
+- Anna Carolina de Oliveira  
+- João Vitor
+- Renata Dayana
+- Richard Guilherme
+- Matheus Santos
+- Maryanne Santos
+- 
 # Protótipos da Interface do Sistema de Gestão Escolar
 
 ## Pessoa Física
