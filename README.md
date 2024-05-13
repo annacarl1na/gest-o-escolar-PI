@@ -1,7 +1,7 @@
 # gest-o-escolar-PI
 Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
 
-Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 5 integrantes: 
+Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 7 integrantes: 
 
 - Julia Oliveira
 - Anna Carolina de Oliveira  
