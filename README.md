@@ -10,7 +10,6 @@ Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo cont�
 - Richard Guilherme
 - Matheus Santos
 - Maryanne Santos
-- 
 # Protótipos da Interface do Sistema de Gestão Escolar
 
 ## Pessoa Física
