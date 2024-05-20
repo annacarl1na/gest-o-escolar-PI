@@ -1,97 +1,51 @@
 # gest-o-escolar-PI
-Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
+Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos - GRUPO 33
 
 Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 7 integrantes: 
 
 - Julia Oliveira
-- Anna Carolina de Oliveira  
+- Anna Carolina de Oliveira -https://github.com/annacarl1na 
 - João Vitor
-- Renata Dayana
+- Renata Dayana - https://github.com/RenataDayana 
 - Richard Guilherme
 - Matheus Santos
 - Maryanne Santos
-# Protótipos da Interface do Sistema de Gestão Escolar
 
-## Pessoa Física
 
-### Detalhes da Pessoa Física
-- Nome
-- Sobrenome
-- Data de Nascimento
-- Gênero
-- Endereço
-- Telefone
-- E-mail
-- Foto
+## Introdução
 
-### Ações Disponíveis
-- Visualizar informações pessoais
-- Editar informações pessoais
-- Excluir cadastro
 
-## Pessoa Jurídica
+O projeto consiste na modelagem e prototipagem de um sistema web direcionado a instituições de ensino. O projeto é focado nesse primeiro momento nas etapas de cadastro de pessoas físicas e jurídicas, além de algumas funcionalidades básicas.
 
-### Detalhes da Pessoa Jurídica
-- Razão Social
-- CNPJ
-- Endereço
-- Telefone
-- E-mail
-- Responsável Legal
+## Requisitos Funcionais
 
-### Ações Disponíveis
-- Visualizar informações da pessoa jurídica
-- Editar informações da pessoa jurídica
-- Excluir cadastro
+#### RF1 - Cadastro de Alunos
+- O sistema deve permitir que o secretário cadastre novos alunos fornecendo nome, RG, CPF, data de nascimento, endereço, telefone e email pessoal.
+#### RF2 - Cadastro de Professores
+- O sistema deve permitir que o secretário cadastre novos professores fornecendo nome, RG, CPF, data de nascimento, endereço, telefone e email pessoal.
+#### RF3 - Cadastro de Fornecedores
+- O sistema deve permitir que o departamento financeiro cadastre novos fornecedores informando razão social, nome fantasia, CNPJ, serviço fornecido, endereço, telefone e email.
+#### RF4 - Cadastro de Aulas
+- O sistema deve permitir que os professores insiram vídeo-aulas no formato MP4, MOV, WMV ou AVI.
+#### RF5 - Visualização de Aulas
+- O sistema deve permitir que os alunos assistam às video-aulas postadas pelos professores.
 
-## Professores
+## Requisitos Não-Funcionais
 
-### Detalhes do Professor
-- Nome
-- Sobrenome
-- Data de Nascimento
-- Gênero
-- Disciplinas lecionadas
-- E-mail
-- Telefone
-- Foto
+- RNF1: O sistema deve ser capaz de lidar com um grande volume de cadastros de alunos, professores e fornecedores sem comprometer o desempenho.
+- RNF2: O tempo de resposta para a postagem de aulas não deve exceder 5 segundos.
+- RNF3: O acesso ao sistema deve ser protegido por autenticação, exigindo nome de usuário e senha válidos.
+- RNF4: Os dados dos alunos, professores, e fornecedores devem ser armazenados de forma segura, seguindo as melhores práticas de segurança da informação.
+- RNF5: A interface do sistema deve ser intuitiva e de fácil utilização, para que tanto o secretário quanto o departamento financeiro possam realizar suas tarefas sem treinamento extensivo.
+- RNF6: O sistema deve ser compatível com diferentes dispositivos e navegadores para garantir acessibilidade para todos os usuários.
+- RNF7: O sistema deve ser altamente confiável, minimizando o tempo de inatividade e garantindo a disponibilidade das funcionalidades essenciais durante o horário de trabalho.
 
-### Ações Disponíveis
-- Visualizar informações do professor
-- Editar informações do professor
-- Excluir cadastro
+## Modelagem
 
-## Fornecedores
+Diagrama de casos de uso do sistema de gestão escolar
 
-### Detalhes do Fornecedor
-- Nome da Empresa
-- CNPJ
-- Endereço
-- Telefone
-- E-mail
-- Tipo de Produto/Serviço Fornecido
+Diagrama de classes do sistema de gestão escolar
 
-### Ações Disponíveis
-- Visualizar informações do fornecedor
-- Editar informações do fornecedor
-- Excluir cadastro
+## Protótipos de Interface
+- Protótipos em construção.
 
-## Alunos
-
-### Detalhes do Aluno
-- Nome
-- Sobrenome
-- Data de Nascimento
-- Gênero
-- Endereço
-- Telefone
-- E-mail
-- Matrícula
-- Turma
-- Responsável Legal
-- Foto
-
-### Ações Disponíveis
-- Visualizar informações do aluno
-- Editar informações do aluno
-- Excluir cadastro
