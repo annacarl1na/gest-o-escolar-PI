@@ -41,8 +41,8 @@ O projeto consiste na modelagem e prototipagem de um sistema web direcionado a i
 - RNF7: O sistema deve ser altamente confiável, minimizando o tempo de inatividade e garantindo a disponibilidade das funcionalidades essenciais durante o horário de trabalho.
 
 ## Modelagem
-![Diagrama de casos de uso do sistema de gestão escolar](
-Diagrama de casos de uso do sistema de gestão escolar
+![Diagrama de casos de uso do sistema de gestão escolar](diagrama-de-classes.png)
+![Diagrama de casos de uso do sistema de gestão escolar](diagrama-decasodeuso.png)
 
 Diagrama de classes do sistema de gestão escolar
 
