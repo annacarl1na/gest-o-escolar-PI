@@ -1,13 +1,14 @@
 # gest-o-escolar-PI
 Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos - GRUPO 33
 
-Repositório destinado ao trabalho do Projeto Integrador do SENAC. O grupo contém 7 integrantes: 
+Repositório destinado ao trabalho do Projeto Integrador do SENAC. 
 
 - Julia Oliveira
 - Anna Carolina de Oliveira -https://github.com/annacarl1na 
 - João Vitor
+- João Raquena - https://github.com/users/JoaoRequena90
 - Renata Dayana - https://github.com/RenataDayana 
-- Richard Guilherme
+- Richard Guilherme - https://github.com/Richard-Gui
 - Matheus Santos
 - Maryanne Santos
 
